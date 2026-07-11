@@ -1,0 +1,7 @@
+{
+  "llm_config": {
+    "class": "langchain_mistralai.chat_models.ChatMistralAI",
+    "model": "mistral-small-latest",
+    "api_key": "5dlYWY20ogBz7LzcemX17BfzavcU3rAK"
+  }
+}
