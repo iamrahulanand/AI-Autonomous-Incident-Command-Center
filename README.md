@@ -12,6 +12,15 @@ The **AI Autonomous Incident Command Center (AICC)** leverages **Neuro SAN's mul
 The result is faster incident response, evidence-based decision making, improved collaboration, and reduced Mean Time to Resolution (MTTR).
 
 ---
+👥 Team
+
+This project was developed as part of the **Neuro SAN Hackathon** by:
+
+| Name | Role |
+|------|------|
+| **Anusha Nagathan** | AI Engineer / Multi-Agent System Developer |
+| **Rahul Anand** | AI Engineer / Multi-Agent System Developer |
+| **Sagar Sen** | AI Engineer / Multi-Agent System Developer |
 
 # ✨ Features
 
