@@ -1,3 +1,4 @@
+<img width="1069" height="572" alt="main" src="https://github.com/user-attachments/assets/81c20e2e-7e8e-4031-b322-a638ef3b4acd" />
 # 🚨 AI Autonomous Incident Command Center (AICC)
 
 An autonomous multi-agent incident response platform built using **Neuro SAN**, designed to automate the complete production incident lifecycle—from alert ingestion to postmortem generation.
